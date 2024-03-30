@@ -30,7 +30,7 @@ If you encounter issues with loading the model, you may need to apply the follow
 ```python
 import pathlib
 temp = pathlib.PosixPath
-pathlib.PosixPath = pathlib.WindowsPath```
+pathlib.PosixPath = pathlib.WindowsPath
 
 ## Contributing
 
