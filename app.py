@@ -19,8 +19,6 @@ static_dir = "static"
 # Mount the static directory
 app.mount("/static", StaticFiles(directory=static_dir), name="static")
 
-temp = pathlib.PosixPath
-pathlib.PosixPath = pathlib.WindowsPath
 
 # Load the model
 model_path = "CGAI_model/ChildGaurdAI_resnet.pkl"
