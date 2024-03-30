@@ -23,7 +23,7 @@ temp = pathlib.PosixPath
 pathlib.PosixPath = pathlib.WindowsPath
 
 # Load the model
-model_path = "ChildGaurdAI_resnet.pkl"
+model_path = "CGAI_model\ChildGaurdAI_resnet.pkl"
 new_model = torch.load(model_path, map_location=torch.device('cpu'))
 
 # Define class labels
