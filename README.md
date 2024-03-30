@@ -31,7 +31,7 @@ If you encounter issues with loading the model, you may need to apply the follow
 import pathlib
 temp = pathlib.PosixPath
 pathlib.PosixPath = pathlib.WindowsPath
-
+```
 ## Contributing
 
 Contributions are welcome! Feel free to fork the repository, make changes, and submit pull requests.
