@@ -1,0 +1,17 @@
+{
+    "manifest_version": 3,
+    "name": "ChildGaurd_AI",
+    "version": "1.0",
+    "description": "Chrome extension to detect explicit images using a FastAPI backend.",
+    "permissions": ["activeTab", "storage"],
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+      }
+    },
+    "icons": {
+        "16":"logo16.png",
+        "48":"logo16.png"
+    }
+  }
+  

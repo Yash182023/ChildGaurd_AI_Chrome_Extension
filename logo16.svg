@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="4.0119157mm"
+   height="4.1175623mm"
+   viewBox="0 0 4.0119157 4.1175623"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="4.9447272"
+     inkscape:cx="883.76969"
+     inkscape:cy="467.06318"
+     inkscape:window-width="1920"
+     inkscape:window-height="1166"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="393.38113"
+       y="470.23856"
+       width="25.162973"
+       height="15.759967"
+       id="rect3" />
+    <rect
+       x="398.41373"
+       y="465.29428"
+       width="17.9231"
+       height="20.571835"
+       id="rect2" />
+    <linearGradient
+       id="linearGradient1"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#0066ff;stop-opacity:1"
+         offset="0"
+         id="stop1" />
+      <stop
+         style="stop-color:#ff2a2a;stop-opacity:1;"
+         offset="1"
+         id="stop2" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1"
+       id="linearGradient2"
+       x1="109.2606"
+       y1="127.08592"
+       x2="105.18011"
+       y2="123.03226"
+       gradientUnits="userSpaceOnUse" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.116119;stroke-dasharray:none;stroke-opacity:1"
+         d="m 107.0482,127.01378 c -0.8431,-0.41795 -1.38346,-0.84222 -1.67035,-1.31155 -0.1811,-0.29626 -0.19645,-0.40553 -0.19645,-1.39967 v -0.91787 l 0.14827,-5.3e-4 c 0.56112,-0.002 1.38133,-0.19514 1.74863,-0.41139 0.0953,-0.0562 0.10474,-0.0567 0.19187,-0.0105 0.44672,0.23683 1.23154,0.42243 1.78612,0.42243 h 0.13703 v 0.93313 c 0,0.77403 -0.008,0.95989 -0.0563,1.08997 -0.0855,0.23877 -0.21406,0.43635 -0.44824,0.68928 -0.24946,0.26946 -0.80413,0.65367 -1.24409,0.86173 -0.20932,0.0989 -0.28621,0.10968 -0.39655,0.055 z"
+         id="path5" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-236.36153,-122.23124)">
+    <rect
+       style="fill:url(#linearGradient2);fill-opacity:1;stroke-width:0.0415016"
+       id="rect1"
+       width="4.2340002"
+       height="4.2340002"
+       x="105.07827"
+       y="122.85514"
+       clip-path="url(#clipPath5)"
+       transform="translate(131.18012,-0.6977666)"
+       inkscape:export-filename="logo16.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <g
+       id="g3"
+       transform="translate(131.2689,-0.56209661)"
+       style="fill:#ffffff">
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,-0.10303472,0.6503756)"
+         id="text2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Poppins;-inkscape-font-specification:'Poppins, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect2);display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke-width:6.16906;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"><tspan
+           x="398.41406"
+           y="469.96159"
+           id="tspan1">CG</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,3.3877106,-0.64908822)"
+         id="text3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333px;font-family:Poppins;-inkscape-font-specification:'Poppins, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect3);display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke-width:6.16906;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"><tspan
+           x="393.38086"
+           y="474.90495"
+           id="tspan2">AI</tspan></text>
+    </g>
+  </g>
+</svg>
